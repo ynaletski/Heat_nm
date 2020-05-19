@@ -1,1 +1,1 @@
-Smp.exe
+y_heat.exe
